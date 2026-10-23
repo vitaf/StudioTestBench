@@ -1,0 +1,37 @@
+# Build
+build/
+*.o
+*.a
+*.so
+*.bin
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Test artifacts
+test_output/
+screenshots/
+
+# CMake FetchContent
+_deps/
+CTestTestfile.cmake
+Makefile
+
+# Session artifacts
+.claude/
+Testing/
+fuzz/build_fuzz/

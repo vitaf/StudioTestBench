@@ -1,0 +1,27 @@
+LICENSE AGREEMENT
+
+Software Product: StudioTestBench (part of MindCopy platform)
+Author and Owner: Vitaly Alexandrovich Feshin
+Contact Information:
+  E-mail: feshin2004@mail.ru, vfeshin@mindcopy.ru
+  Phone: +7(918)345-75-18
+  Russia, Krasnodar
+Year: 2024-2026
+
+                      ALL RIGHTS RESERVED. ВСЕ ПРАВА ЗАЩИЩЕНЫ.
+
+This Software is part of the MindCopy platform and is governed by the
+platform License Agreement. The full license text is in the project root
+(../LICENSE) or in any sub-project (BioNeuronCore, BioNeuronStudio,
+BioNeuronSDK).
+
+In short:
+- Free use for science, medicine, education, and private individuals
+- Commercial use requires the Author's permission
+- Software is provided "AS IS", without warranties
+- Author bears no responsibility for consequences of use
+- All intellectual property rights belong to the Author
+- Governing law: Russian Federation, Krasnodar
+
+Copyright (c) 2024-2026 Vitaly Alexandrovich Feshin. All rights reserved.
+See also DISCLAIMER.md — short disclaimer of liability.

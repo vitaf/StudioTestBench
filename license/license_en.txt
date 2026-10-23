@@ -1,0 +1,77 @@
+================================================================================
+                    MindCopy — LICENSE AGREEMENT
+================================================================================
+
+Copyright (c) 2024-2026 Vitaly Alexandrovich Feshin
+E-mail: feshin2004@mail.ru, vfeshin@mindcopy.ru
+Phone: +7(918)345-75-18
+Krasnodar, Russia
+
+ALL RIGHTS RESERVED.
+
+Platform components: BioNeuronCore, BioNeuronStudio, BioNeuronSDK, StudioTestBench
+
+────────────────────────────────────────────────────────────────────────────────
+
+1. DEFINITIONS
+   "Software" — source code, binary files, documentation and related materials
+   of the MindCopy project.
+   "Author" — Vitaly Alexandrovich Feshin.
+   "User" — any person or organization using the Software.
+
+2. LICENSE GRANT
+   2.1. The Author grants the User a non-exclusive, non-transferable license
+   to use the Software for scientific research and educational purposes.
+   2.2. The User may: install and run the Software on their devices; study the
+   source code; modify the Software for personal research needs.
+   2.3. The User may NOT: use the Software for commercial purposes without the
+   Author's written permission; distribute, sublicense, or lease the Software
+   to third parties without permission; remove or alter copyright notices.
+
+3. OWNERSHIP
+   3.1. All rights to the Software, including source code, algorithms, data
+   structures, file formats (.bion, .bexp), documentation, and trademarks,
+   belong exclusively to the Author.
+   3.2. The Software is protected by Russian Federation copyright law and
+   international treaties.
+
+4. DISCLAIMER OF WARRANTY
+   4.1. THE SOFTWARE IS PROVIDED "AS IS". THE AUTHOR MAKES NO WARRANTIES,
+   EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+   A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
+
+5. LIMITATION OF LIABILITY
+   5.1. The Author shall not be liable for any damages, losses, or harm,
+   direct or indirect, arising from the use or inability to use the Software,
+   including loss of data, lost profits, production stoppage, or incorrect
+   simulation results.
+
+6. RESEARCH NATURE
+   6.1. The Software is a scientific research tool. It is not intended for
+   clinical diagnosis, treatment, or medical decision-making.
+
+7. CONFIDENTIALITY
+   7.1. The Software may contain mechanisms for collecting technical data for
+   update and licensing purposes. The Author undertakes not to transfer this
+   data to third parties without the User's consent.
+
+8. TERM AND TERMINATION
+   8.1. This license is perpetual until terminated.
+   8.2. The Author may revoke the license if the User violates the terms of
+   this Agreement.
+
+9. GOVERNING LAW
+   9.1. This Agreement is governed by the laws of the Russian Federation.
+   9.2. All disputes shall be resolved in the court at the Author's location —
+   Krasnodar, Russian Federation.
+
+10. CONTACT INFORMATION
+   Vitaly Alexandrovich Feshin
+   E-mail: feshin2004@mail.ru, vfeshin@mindcopy.ru
+   Phone: +7(918)345-75-18
+   Krasnodar, Russia
+
+================================================================================
+BY INSTALLING OR USING THIS SOFTWARE, YOU CONFIRM THAT YOU HAVE READ,
+UNDERSTOOD, AND ACCEPT THE TERMS OF THIS LICENSE AGREEMENT.
+================================================================================

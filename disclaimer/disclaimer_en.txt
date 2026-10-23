@@ -1,0 +1,43 @@
+# DISCLAIMER
+
+**MindCopy** is a research platform for biologically realistic neural network simulation.
+
+## In Short
+
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+> THE AUTHOR BEARS NO LIABILITY FOR ANY CONSEQUENCES OF USE.
+> ALL RIGHTS RESERVED. COMMERCIAL USE WITHOUT PERMISSION IS PROHIBITED.
+
+## In Detail
+
+1. **No Warranty.** The Software is provided "AS IS". The Author makes no
+   warranties, express or implied, including fitness for a particular purpose,
+   merchantability, and non-infringement of third-party rights.
+
+2. **Limitation of Liability.** The Author shall not be liable for any damages,
+   losses, or harm, direct or indirect, arising from the use or inability to use
+   the Software, including but not limited to:
+   - Loss of data
+   - Lost profits
+   - Production stoppage
+   - Incorrect simulation results
+   - Decisions made based on the Software output
+
+3. **Research Nature.** The Software is a scientific research tool. It is not
+   intended for clinical diagnosis, treatment, medical decision-making, or use
+   in systems whose failure could lead to death, injury, or significant
+   material damage.
+
+4. **Intellectual Property.** All rights to the Software, including source code,
+   algorithms, data formats, and documentation, belong exclusively to the Author —
+   Vitaly Alexandrovich Feshin. Commercial use, distribution, or sublicensing
+   without the Author's written permission is prohibited.
+
+5. **Governing Law.** This Agreement is governed by the laws of the Russian Federation.
+   All disputes shall be resolved in the court at the Author's location — Krasnodar.
+
+6. **Full license text:** see LICENSE file.
+
+---
+
+© 2024-2026 Vitaly Alexandrovich Feshin / Фешин Виталий Александрович. All rights reserved.
